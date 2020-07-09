@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 """
@@ -11,7 +11,6 @@ import sys
 
 def main():
     """Entrypoint"""
-    print("Hello!")
 
 
 if __name__ == '__main__':
